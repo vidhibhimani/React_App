@@ -1,5 +1,5 @@
 import React from 'react';
-import './Todolist.css';  // Make sure to import the CSS file
+import './Todolist.css';   
 
 function TodoList({ data, hdlt, hupd }) {
   return (

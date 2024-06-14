@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import TodoList from './TodoList'
 import './Todo.css'
 
-function TodoInput() {
+function Todo() {
  
   const[task,setTask] = useState("")
   const[arr,setArr] = useState([])
@@ -50,4 +50,4 @@ function TodoInput() {
   )
 }
 
-export default TodoInput
+export default Todo
