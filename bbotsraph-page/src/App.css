@@ -1,0 +1,343 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    height: 100px;
+}
+.navbar-nav {
+    margin-left: 200px;
+}
+.nav-item {
+    margin-left: 20px;
+    font-family: Bitter, serif;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+li a{
+    cursor: pointer;
+}
+.login {
+    margin-left: 50px;
+}
+.section1 {
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
+.parent1 {
+    width: 100%;
+    height: 590px;
+    background-color: rgb(255, 229, 229);
+    position: relative;
+}
+.women {
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 200px;
+}
+.sitamet {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 200px;
+}
+.shop {
+    margin-top: 350px;
+    position: absolute;
+    margin-left: 200px;
+}
+.line1 {
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 200px;
+}
+.img1 {
+    width: 300px;
+    height: 590px;
+    margin-left: 785px;
+}
+.parentt1 {
+    width: 50%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box1 {
+    width: 47%;
+    height: 290px;
+    position: relative;
+}
+.men {
+    position: absolute;
+    margin-top: 70px;
+}
+.item {
+    position: absolute;
+    margin-top: 100px;
+}
+.shop1 {
+    position: absolute;
+    margin-top: 140px;
+}
+.line {
+    position: absolute;
+    margin-top: 130px;
+}
+.img2 {
+    margin-left: 85px;
+    height: 290px;
+}
+.img3 {
+    width: 320px;
+    margin-top: -20px;
+    margin-left: 52px;
+}
+.img4 {
+    margin-left: 112px;
+    margin-top: 43px;
+}
+.img5 {
+    width: 350px;
+    height: 280px;
+}
+.section2 {
+    width: 80%;
+    height: 70px;
+    margin-left: 10%;
+}
+.line2 {
+    margin-top: -40px;
+}
+.section3 {
+    width: 80%;
+    height: 550px;
+    margin-left: 10%;
+}
+.box3 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.box3 img {
+    height: 100%;
+    width: 100%;
+}
+.card-body {
+    width: 100%;
+    height: 120px;
+}
+.star {
+    margin-top: -15px;
+}
+.star i {
+    color: rgb(255, 196, 54);
+    margin-top: -35px;
+    font-size: 10px;
+}
+.doller {
+    margin-top: -10px;
+}
+.section4 {
+    width: 80%;
+    height: 550px;
+    margin-left: 10%;
+}
+.section5 {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(250, 241, 228);
+    position: relative;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(250, 241, 228);
+    border-image: initial;
+}
+.img14 {
+    position: absolute;
+    margin-left: -295px;
+    height: 450px;
+}
+.imgg14 {
+    position: absolute;
+    margin-left: 925px;
+}
+#carouselExampleFade {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 150px;
+}
+.box4 {
+    width: 120%;
+    height: 200px;
+    margin-left: 40%;
+}
+.section6 {
+    width: 70%;
+    height: 470px;
+    margin-left: 15%;
+    display: flex;
+    justify-content: space-evenly;
+/*    border: 1px solid black;*/
+}
+.child6 {
+    width: 32%;
+    height: 100%;
+/*    border: 1px solid black;*/
+}
+.box6 {
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+/*    border: 1px solid black;*/
+}
+.box6 h3 {
+    margin-top: -35px;
+}
+.boxx6 {
+    height: 120px;
+/*    border: 1px solid black;*/
+    position: relative;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+}
+.chain {
+    position: absolute;
+    margin-left: 110px;
+/*    margin-top: 40px;*/
+}
+.star6 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 132px;
+    font-size: 12px;
+    color: rgb(255, 196, 54);
+}
+.star6 {
+    position: absolute;
+    margin-left: 132px;
+    font-size: 12px;
+    color: rgb(255, 196, 54);
+}
+.doller6{
+    margin-top: 40px;
+    position: absolute;
+    margin-left: 140px;
+}
+.section7 {
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+    display: flex;
+}
+.child7 {
+    width: 50%;
+    height: 400px;
+    background-color: rgb(223, 204, 251);
+}
+.child7 img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.summer {
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 135px;
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+}
+.box7 {
+    width: 200px;
+    height: 200px;
+    margin-left: 160px;
+    margin-top: 50px;
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+    border-radius: 50%;
+}
+.sale {
+    margin-top: 50px;
+}
+.parent7 {
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxx7 {
+    width: 100px;
+    height: 70px;
+    position: relative;
+}
+.day {
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 52px;
+}
+.lines {
+    margin-top: -40px;
+}
+.section8 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+.box8 {
+    width: 225px;
+    height: 300px;
+}
+.box8 img {
+    width: 100%;
+    height: 100%;
+}
+.box8:hover img{
+    filter: blur(1px);
+}
+.section9 {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.box9 {
+    width: 30%;
+    height: 350px;
+}
+.boxx9 {
+    width: 20%;
+    height: 350px;
+}
+input {
+    padding-right: 130px;
+    height: 60px;
+    position: relative;
+    border-radius: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-image: initial;
+}
+.sub {
+    position: absolute;
+    margin-left: -120px;
+    margin-top: 10px;
+}
+.icon i {
+    font-size: 30px;
+    padding-left: 10px;
+}
